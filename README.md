@@ -1,4 +1,4 @@
-# Hotel Inventory & SupplyChain Manager (HISM)
+# Inventory and Supply Chain System for hotel
 
 This project is a complete inventory and supply chain management system built for hotel operations using PHP, MySQL, Bootstrap, and jQuery.
 
