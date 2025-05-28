@@ -37,4 +37,4 @@ SQL dump included in `/docs/database-schema.sql`
 Final version submitted for MIT536 - Advanced Software Engineering.
 
 ## 👨‍💻 Author
-[Your Name] – MIT536 Student
+Francis De Jesus– MIT536 Student
