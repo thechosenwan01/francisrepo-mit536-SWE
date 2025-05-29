@@ -54,5 +54,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     exit;
 }
 
+  //  response for invalid request
 echo json_encode(['response' => 'Invalid request.']);
 exit;
