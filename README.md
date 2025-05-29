@@ -38,3 +38,6 @@ Final version submitted for MIT536 - Advanced Software Engineering.
 
 ## 👨‍💻 Author
 Francis De Jesus– MIT536 Student
+
+
+NOTE: the File is to big: you can Download the ZIP in: https://github.com/thechosenwan01/francisrepo-mit536-SWE/blob/main/Inventory-Management-System.zip
